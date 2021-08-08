@@ -8,12 +8,12 @@ The climate analysis determined the following:
 ### June Climate
 - ADD SUMMARY OF DESCRIPTIVE STATS. 
 
-![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retiring_by_title.png)
+![Table](https://github.com/rabascoh/climate-analysis/blob/main/Resources/June_temps.png)
 
 ### December Climate
 - ADD SUMMARY OF DESCRIPTIVE STATS.  
 
-![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retiring_by_title.png)
+![Table](https://github.com/rabascoh/climate-analysis/blob/main/Resources/December_temps.png)
 
 ### Climate Comparison
 - ADD SUMMARY OF DESCRIPTIVE STATS. 
@@ -26,10 +26,10 @@ In order to better understand the climate in June and December, we have provided
 ### Additional Insights
 #### June Precipitation
 
-![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/mentorship_eligibility_by_dept.png)
+![Table](https://github.com/rabascoh/climate-analysis/blob/main/Resources/June_prcp.png)
 
 #### December Precipitation
 
-![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/mentorship_eligibility_by_title.png)
+![Table](https://github.com/rabascoh/climate-analysis/blob/main/Resources/December_prcp.png)
 
-[*See additional insights query here*](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Queries/Employee_Database_challenge.sql)
+[*See additional insights query here*](https://github.com/rabascoh/climate-analysis/blob/main/SurfsUp_Challenge.ipynb)
