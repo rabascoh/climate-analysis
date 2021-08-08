@@ -6,12 +6,12 @@ The purpose of this analysis is to gain insight into temperature data for the mo
 ## Results
 The climate analysis determined the following: 
 ### June Climate
-- June in Oahu is 74°F on average. The lowest temperature for June is 63°F and the highest temperature is 87°F.  
+June in Oahu is 74°F on average. The lowest temperature for June is 63°F and the highest temperature is 87°F.  
 
 ![Table](https://github.com/rabascoh/climate-analysis/blob/main/Resources/June_temps.png)
 
 ### December Climate
-- December in Oahu is approximately 71°F on average. The lowest temperature for December is 56°F and the highest temperature is 83°F.  
+December in Oahu is approximately 71°F on average. The lowest temperature for December is 56°F and the highest temperature is 83°F.  
 
 ![Table](https://github.com/rabascoh/climate-analysis/blob/main/Resources/December_temps.png)
 
@@ -36,4 +36,4 @@ See additional details regarding the precipitation analysis below.
 
 ![Table](https://github.com/rabascoh/climate-analysis/blob/main/Resources/December_prcp.png)
 
-[*See additional insights query here*](https://github.com/rabascoh/climate-analysis/blob/main/SurfsUp_Challenge.ipynb)
+[*See additional insights queries here*](https://github.com/rabascoh/climate-analysis/blob/main/SurfsUp_Challenge.ipynb)
